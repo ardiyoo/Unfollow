@@ -7,9 +7,14 @@ python main.py
 ```
 
 ## Code
-I TOTALLY GOT BORED CODING IT SO I DECIDED TO MAKE IT OPEN SOURCE AND POST ON GITHUB, IT NEEDS SOME LITTLE CHANGES SO IT'S UNFINISHED, THO STILL IT WORKS AND DOES THE JOB.
-this is the shittiest/messed up code you'll ever see.
+```
+I totally got bored coding it so i decided to make it open source and post on github, it needs some little changes so it's unfinished, tho still it works and does the job.
+-
+Give a star if you want a completed faster and better version of it.
+-
+this is the shittiest/messed up code you'll ever see. Because i really coded it in 20 minutes for fun
+```
 
 ## Drop
 
- I will drop a clean and good version of it into exe with good design and sleep & no rate limit.
+ I will drop a clean and good version of it into exe with good design and sleep & no rate limit soon.
