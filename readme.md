@@ -12,4 +12,4 @@ this is the shittiest/messed up code you'll ever see.
 
 ## Drop
 
- I will drop a clean soon and good version of it into exe with good design and sleep & no rate limit.
+ I will drop a clean and good version of it into exe with good design and sleep & no rate limit.
