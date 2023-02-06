@@ -136,7 +136,8 @@ def getinfo(username, id, sessionID):
     res = requests.get('https://i.instagram.com/api/v1/users/web_profile_info/', params=params, headers=headers)
 
     if 'follows_viewer":true' in res.text:
-        pass
+        sleep(3)
+        unfollow(username, id, sessionID)
     elif 'follows_viewer":false' in res.text:
         sleep(3)
         unfollow(username, id, sessionID)
