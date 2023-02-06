@@ -1,5 +1,5 @@
 ## Unfollow Instagram
-Unfollow all users that arent following you back on instagram
+Unfollow all following on instagram
 
 ## Usage
 ```bash
